@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning C++ and Go
+🎸 in my spare time, I enjoy playing guitar
 <!--
 **Ales-h/Ales-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
