@@ -1,6 +1,6 @@
-## Hi there 👋
-🌱 I’m currently learning C++ and Go <br>
-🎸 in my spare time, I enjoy playing guitar
+ I'm interested in physics simulation and computer graphics. 
+🌱 I’m currently learning C++ and OpenGL <br>
+🎸 in my spare time, I enjoy playing guitar or reading books
 <!--
 **Ales-h/Ales-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
