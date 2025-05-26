@@ -1,4 +1,4 @@
- I'm interested in physics simulation and computer graphics. 
+ I'm interested in physics simulation and computer graphics. <br>
 🌱 I’m currently learning C++ and OpenGL <br>
 🎸 in my spare time, I enjoy playing guitar or reading books
 <!--
