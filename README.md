@@ -1,6 +1,6 @@
  I'm interested in physics simulation and computer graphics. <br>
 🌱 I’m currently learning C++ and OpenGL <br>
-🎸 in my spare time, I enjoy playing guitar or reading books
+🎸 in my spare time, I enjoy playing guitar and reading books
 <!--
 **Ales-h/Ales-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
